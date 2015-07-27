@@ -6,6 +6,8 @@ public class abstractCard {
 		// TODO Auto-generated method stub
 //test function
 //test remote
+		//test commit remote and local
+		
 	}
 
 }
